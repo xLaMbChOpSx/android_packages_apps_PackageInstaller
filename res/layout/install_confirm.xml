@@ -133,7 +133,6 @@
                     android:layout_weight="1"
                     android:text="@string/next"
                     android:maxLines="2"
-                    android:filterTouchesWhenObscured="true"
                     style="?android:attr/buttonBarButtonStyle" />
 
             <LinearLayout android:id="@+id/rightSpacer"
